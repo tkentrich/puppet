@@ -1,0 +1,10 @@
+# Managed by Puppet
+#    Sysfiles
+
+127.0.0.1	localhost
+192.168.56.110	kentldap.richardson.org	kentldap
+192.168.56.105	kentpuppet.richardson.org	puppet.richardson.org	kentpuppet	puppet
+192.168.56.101	kentdb.richardson.org		mysql.richardson.org	kentdb	mysql
+192.168.56.102	kentgit.richardson.org		git.richardson.org	kentgit	git
+192.168.56.200	kent-centos.richardson.org	kent-centos
+192.168.56.201	workstation.richardson.org	workstation

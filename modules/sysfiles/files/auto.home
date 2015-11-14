@@ -1,0 +1,5 @@
+# Managed by Puppet
+#    Sysfiles
+
+#	Vers 3 seems to be what changed ownership from "Nobody"
+*	-vers=3,sec=sys,timeo=50,nodev,nosuid	192.168.56.110:/data/home/&

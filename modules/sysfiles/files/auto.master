@@ -1,0 +1,11 @@
+# Managed by Puppet
+#    Sysfiles
+
+# Defaults
+/misc   /etc/auto.misc
+/net    -hosts
++auto.master
+
+# Home directories
+/home   /etc/auto.home
+
